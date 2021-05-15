@@ -6,14 +6,15 @@
             "\n",
             {
                 "text": "Gamemode 4 for 1.16",
-                "color": "aqua"
+                "color": "#4AA0C7"
             }
         ]
     },
     "module_name": "Zauber Cauldrons",
     "module_id": "zauber_cauldrons",
     "libraries": [
-        "lib_forceload"
+        "lib_forceload",
+        "lib_player_heads"
     ],
     "site_description": "Brew potions, special armour and attribute crystals in any cauldron!",
     "site_categories": [],
